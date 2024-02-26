@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "fname": "esraa",
+      "lname": "mohamed",
+      "age": 50,
+      "city": "mansoura"
+    },
+    {
+      "id": 2,
+      "fname": "eman",
+      "lname": "mohamed",
+      "age": 50,
+      "city": "mansoura"
+    },
+    {
+      "id": 3,
+      "fname": "ziad",
+      "lname": "ahmed",
+      "age": 30,
+      "city": "alex"
+    },
+    {
+      "id": 4,
+      "fname": "ghada",
+      "lname": "nasr",
+      "age": 25,
+      "city": "cairo"
+    },
+    {
+      "id": 5,
+      "fname": "islam",
+      "lname": "mohamed",
+      "age": 28,
+      "city": "mansoura"
+    }
+  ]
+  
